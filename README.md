@@ -59,7 +59,8 @@ B.E. 3rd year Information Science student. Passionate about Web Development, DSA
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anirudha06&repo=My_Portfolio&theme=radical" />
 </a>    
-
+**Badges**
+[![@anirudhakamath's Holopin board](https://holopin.io/api/user/board?user=anirudhakamath)](https://holopin.io/@anirudhakamath)
 
 ##  Contact Me :speech_balloon:
 [![Twitter Badge](https://img.shields.io/badge/-@anirudha__kamath-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anirudha_kamath)](https://twitter.com/anirudha_kamath)  [![Gmail Badge](https://img.shields.io/badge/-anirudhankamath@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anirudhankamath@gmail.com)](mailto:anirudhankamath@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@anirudha____kamath__-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/anirudha__kamath_/)](https://www.instagram.com/anirudha__kamath_/)
