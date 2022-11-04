@@ -59,7 +59,7 @@ B.E. 3rd year Information Science student. Passionate about Web Development, DSA
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anirudha06&repo=My_Portfolio&theme=radical" />
 </a>    
-**Badges**
+
 
 [![@anirudhakamath's Holopin board](https://holopin.io/api/user/board?user=anirudhakamath)](https://holopin.io/@anirudhakamath)
 
